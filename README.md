@@ -6,4 +6,4 @@ A docker container that pip installs the confluent kafka client including depend
 
 ## This is a base box for kafka client applications. This is not kafka itself.
 
-https://hub.docker.com/r/heartysoft/alpine-confluent-kafka/
+https://hub.docker.com/r/carsense/alpine-kafka-python/
